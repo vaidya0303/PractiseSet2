@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ReverseNumForLoop {
+public class ReverseNumForLoop{
 
 	public static void main(String[] args) {
 		int forward = 0;
