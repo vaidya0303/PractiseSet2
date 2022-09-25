@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class WhileReverseNum {
+class WhileReverseNum{
 	public static void main(String[] args) {
 
 		int num, rev;
