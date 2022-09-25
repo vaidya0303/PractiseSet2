@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class PalindromeForLoop{
+class PalindromeForLoop {
 
 	public static void main(String arg[])	
 	{
