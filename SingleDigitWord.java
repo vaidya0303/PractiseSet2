@@ -1,7 +1,7 @@
 
 	import java.util.Scanner;
 	
-	class SingleDigitWord {
+	class SingleDigitWord   {
 		
 		public static void main(String[] args) {
 			System.out.print("Enter your Number here = ");
