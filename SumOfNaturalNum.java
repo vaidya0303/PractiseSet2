@@ -2,7 +2,7 @@
 // Java program to show sum of natural numbers
 // using the while loop
 
-import java.util.*;
+import java.util.Scanner;
 
 class SumOfNaturalNum {
 
